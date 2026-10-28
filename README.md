@@ -2,7 +2,7 @@
 
 Proyecto académico que estudia la clasificación de la etiqueta `Depression` mediante regresión logística sobre el conjunto *Exploring Mental Health Data* (Kaggle Playground Series S4E11). El trabajo compara predictores relacionados con salud mental, edad, sueño y actividad laboral o académica, y analiza las probabilidades y los errores de clasificación.
 
-El código del proyecto está en el notebook original [codigo aprendizaje supervisado.ipynb](codigo%20aprendizaje%20supervisado.ipynb). El [análisis del problema](docs/analisis-del-problema.md) explica los datos, el procedimiento y sus limitaciones; la [guía del notebook](docs/guia-del-notebook.md) resume sus secciones.
+El código del proyecto está en el notebook original [codigo aprendizaje supervisado.ipynb](codigo%20aprendizaje%20supervisado.ipynb). El [análisis del problema](docs/analisis-del-problema.md) explica los datos, el procedimiento y sus limitaciones.
 
 > **Uso responsable:** este proyecto es académico. Las predicciones no son diagnósticos ni deben usarse para tomar decisiones clínicas o personales. Las asociaciones estimadas no demuestran causalidad.
 
@@ -41,8 +41,7 @@ Abre `codigo aprendizaje supervisado.ipynb` y ejecuta las celdas en orden. Tambi
 clasificacion-salud-mental-notebook/
 ├── codigo aprendizaje supervisado.ipynb  # notebook original
 ├── docs/
-│   ├── analisis-del-problema.md
-│   └── guia-del-notebook.md
+│   └── analisis-del-problema.md
 ├── requirements.txt
 ├── .gitignore
 └── README.md
